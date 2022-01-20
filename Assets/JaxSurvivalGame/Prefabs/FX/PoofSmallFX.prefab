@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 771872157735578462}
   - component: {fileID: 114086210762573782}
   m_Layer: 0
-  m_Name: PoofSmallFX
+  m_Name: poofSmallFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

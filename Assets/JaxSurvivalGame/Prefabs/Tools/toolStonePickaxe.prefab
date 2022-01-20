@@ -60,12 +60,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28c5629aee9d11b4c89c7dc94f7c0329, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: f461dd72352799b4b844719aa22d0729, type: 2}
+  data: {fileID: 11400000, guid: 4403a7bdc186a7c45b945872fb66bb78, type: 2}
   quantity: 1
   auto_collect_range: 0
   snap_to_ground: 1
-  take_audio: {fileID: 8300000, guid: c26bb97f4ba0c7b4bafdf9603ecf8d56, type: 3}
-  take_fx: {fileID: 771872157719671656, guid: d60c5c6c5a1ef4d4cb2c550bb13512cb, type: 3}
+  take_audio: {fileID: 8300000, guid: 1df6bd59da67c634d9fefc83b791ee40, type: 3}
+  take_fx: {fileID: 771872157719671656, guid: 3b96ad2389c8f184bba60d1fa38f37c5, type: 3}
   was_spawned: 0
 --- !u!114 &6130855442056078356
 MonoBehaviour:
@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uid_prefix: pickaxe_
-  unique_id: 
+  unique_id: pickaxe_krj4cJXviKfm
 --- !u!1001 &791120720322535614
 PrefabInstance:
   m_ObjectHideFlags: 0
