@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 239b05dc28dd3364ba565d09dac64d13, type: 3}
   m_Name: resourceWood
   m_EditorClassIdentifier: 
-  id: wood
+  id: resourceWood
   title: Wood
   icon: {fileID: 21300000, guid: 46f4c2cabd64abc438d91f338f2b808b, type: 3}
   desc: Basic Material
@@ -25,7 +25,7 @@ MonoBehaviour:
   craft_items: []
   craft_fillers: []
   craft_requirements: []
-  craft_sound: {fileID: 8300000, guid: a959259a1dc64384291aa531cc0f73b1, type: 3}
+  craft_sound: {fileID: 8300000, guid: e9b11cf4f0f7f174489629f0b469055b, type: 3}
   type: 0
   inventory_max: 20
   durability_type: 0
@@ -49,9 +49,9 @@ MonoBehaviour:
   eat_bonus: []
   eat_bonus_duration: 0
   actions:
-  - {fileID: 11400000, guid: c940e7d1134ced948824248625884a12, type: 2}
-  - {fileID: 11400000, guid: d2e00df561181024d9d85af8d6b9c5bc, type: 2}
-  - {fileID: 11400000, guid: 3af53bb76c228674089c57413f37cf68, type: 2}
+  - {fileID: 11400000, guid: e1c4096ee019c994799db705b0328569, type: 2}
+  - {fileID: 11400000, guid: 3b862431fec27ab48a151453f152c8bd, type: 2}
+  - {fileID: 11400000, guid: 36bcb35b67035e142934d7c1fdae4535, type: 2}
   buy_cost: 0
   sell_cost: 0
   container_data: {fileID: 0}
@@ -59,7 +59,7 @@ MonoBehaviour:
   construction_data: {fileID: 0}
   character_data: {fileID: 0}
   projectile_group: {fileID: 0}
-  item_prefab: {fileID: 2007343269848344843, guid: b1b5a454705ad1e468ba1cb118491e32,
+  item_prefab: {fileID: 2007343269848344843, guid: 6fb4d8a834d6a8e48a22f88932b6db20,
     type: 3}
   equipped_prefab: {fileID: 0}
   projectile_prefab: {fileID: 0}

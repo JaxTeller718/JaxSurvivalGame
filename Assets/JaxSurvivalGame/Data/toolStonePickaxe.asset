@@ -17,17 +17,17 @@ MonoBehaviour:
   icon: {fileID: 21300000, guid: 6e75d10dbcd3f2c48953183b662a9371, type: 3}
   desc: Use to mine rocks.
   groups:
-  - {fileID: 11400000, guid: 508854f2befed3244863e941bb9ffcff, type: 2}
-  - {fileID: 11400000, guid: 5160ad4098338654d932ecc6fc56ebb3, type: 2}
-  - {fileID: 11400000, guid: ea553d327ce002d4485bcda2052fa282, type: 2}
+  - {fileID: 11400000, guid: 3cf71156779f50d4195d1e1995a516be, type: 2}
+  - {fileID: 11400000, guid: 142e00d8c9391f74b98ae9ef8d703c54, type: 2}
+  - {fileID: 11400000, guid: 180454ba7fd3f2b41bc4ab9aa183c6ba, type: 2}
   craftable: 1
   craft_quantity: 1
   craft_duration: 0
   craft_sort_order: 0
   craft_near: {fileID: 0}
   craft_items:
-  - {fileID: 11400000, guid: ff17a3d8277ae7747bfb1f6f538bdd45, type: 2}
-  - {fileID: 11400000, guid: 4cafd98656786724a868a2434d92eb95, type: 2}
+  - {fileID: 11400000, guid: 017e43954e9162e40aee876295bdb78e, type: 2}
+  - {fileID: 11400000, guid: 18002d23ed38c66439ded7b0429147d0, type: 2}
   craft_fillers: []
   craft_requirements: []
   craft_sound: {fileID: 8300000, guid: e9b11cf4f0f7f174489629f0b469055b, type: 3}
@@ -54,8 +54,8 @@ MonoBehaviour:
   eat_bonus: []
   eat_bonus_duration: 0
   actions:
-  - {fileID: 11400000, guid: 15af810dc6fe6b746b53fcc59374e103, type: 2}
-  - {fileID: 11400000, guid: d2e00df561181024d9d85af8d6b9c5bc, type: 2}
+  - {fileID: 11400000, guid: 162c15b4c38f0ac458582a277cb663cc, type: 2}
+  - {fileID: 11400000, guid: 3b862431fec27ab48a151453f152c8bd, type: 2}
   buy_cost: 0
   sell_cost: 0
   container_data: {fileID: 0}
